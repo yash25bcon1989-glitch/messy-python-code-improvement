@@ -1,0 +1,9 @@
+===== Student Marks Report =====
+Subject: Math - Marks: 78/100
+Subject: Science - Marks: 85/100
+Subject: English - Marks: 92/100
+Average Marks: 85.0
+Percentage: 85.0%
+Computed Average Again: 85.0
+Grade: B
+===== End of Report =====
